@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G6R1&theme=vue)](https://github.com/G6R1/)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G6R1&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G6R1&theme=solarized_dark)
